@@ -26,8 +26,8 @@ from telegram.ext import Application, CommandHandler, MessageHandler, filters, C
 # ============================================================
 # الإعدادات (غيّرها حسب توكنك)
 # ============================================================
-TELEGRAM_TOKEN = "YOUR_BOT_TOKEN"  # ضع توكن البوت من @BotFather
-TELEGRAM_CHAT_ID = "YOUR_CHAT_ID"  # ضع معرفك من @userinfobot
+TELEGRAM_TOKEN = "6875232886:AAFooRWolKFVq5BiqX65_YsL6pXteSAxcss"  # ضع توكن البوت من @BotFather
+TELEGRAM_CHAT_ID = "6584406839"  # ضع معرفك من @userinfobot
 ALLOWED_USER_IDS = [int(TELEGRAM_CHAT_ID)]  # فقط أنت من يستخدم البوت
 
 # ============================================================
