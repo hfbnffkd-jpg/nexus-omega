@@ -1,0 +1,6 @@
+requests
+mysql-connector-python
+paramiko
+dnspython
+python-telegram-bot
+whois
